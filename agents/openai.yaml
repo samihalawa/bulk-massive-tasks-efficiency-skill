@@ -1,0 +1,6 @@
+interface:
+  display_name: Bulk & Massive Tasks Efficiency
+  short_description: Process complete populations once, batch work and prove outcomes.
+  default_prompt: Use $bulk-massive-tasks-efficiency-skill for the complete named population. Bind window/account/count, nested payloads, authority and proof; inspect supported bulk/schema limits; hydrate every member once before classification with provider-sized batches, detecting truncation and missing pages. Reuse the corpus, group by route/dependency, parallelise independent reads/preparation and serialise shared mutations. Retain successful IDs/cursors through quotas and resume missing slices, never replay successful actions or sample an all request. Refresh only exact targets before consequential actions, use required reviews, verify each native outcome once and report exact coverage/counts with genuine gaps. Keep audit read-only, preserve existing records and provider receipts, and keep history evidence separate from current truth.
+policy:
+  allow_implicit_invocation: true
