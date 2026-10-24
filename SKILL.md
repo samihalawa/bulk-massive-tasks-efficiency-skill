@@ -43,7 +43,7 @@ Resume the same interrupted task/session with its source bounds and original mod
 
 ## 5. Execute exact targets and verify once
 
-Audit stays read-only; draft does not imply send; bulk authority does not expand the mutation classes or recipients. Recheck exact ID/account/destination, current state, payload/attachments and duplication risk immediately before a consequential action. Use required exact-copy and action reviews once per unchanged payload/action scope; changed content or basis invalidates the relevant review.
+Apply the current request and standing owner authority: an audit/review includes its evident in-scope fixes unless the user explicitly requires read-only or report-only work. Respect that explicit limit. A draft does not imply send, and bulk processing does not itself authorise new mutation classes or recipients. Recheck exact ID/account/destination, current state, payload/attachments and duplication risk immediately before a consequential action. Use required exact-copy and action reviews once per unchanged payload/action scope; changed content or basis invalidates the relevant review.
 
 Perform the authorised action once, capture its native stable ID/reference/time and read back each changed target at the promised layer. A provider batch acknowledgement is enough only if it explicitly proves every member and exact result; per-member failures remain open. For a visual batch, complete programmatic work first, then one targeted representative navigation that proves the requested surface; a visual sample never proves all row values or all outcomes.
 
